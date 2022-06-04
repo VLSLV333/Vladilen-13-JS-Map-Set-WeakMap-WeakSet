@@ -117,3 +117,5 @@ console.log(map)
 // } 
 
 // console.log(lastVisit(users[2]))        
+
+console.log("Vladik ozivai!")
